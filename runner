@@ -6,4 +6,4 @@ git clone https://github.com/GV-Network-Engineering-Incubator/Mothership.git
 sh ./Jupiter/jupiter/install
 sh ./Mothership/mothership/install
 
-echo "To run, go into Jupiter/jupiter and execute 'npm start', then go into Mothership/mothership and execute 'npm start'
+echo "To run, go into Jupiter/jupiter and execute 'npm start', then go into Mothership/mothership and execute 'npm start'"
