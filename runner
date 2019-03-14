@@ -3,10 +3,10 @@
 git clone https://github.com/GV-Network-Engineering-Incubator/Jupiter.git
 git clone https://github.com/GV-Network-Engineering-Incubator/Mothership.git
 
-cd /Jupiter/jupiter
+cd ./Jupiter/jupiter
 ./install
 cd ../..
-cd /Mothership/mothership
+cd ./Mothership/mothership
 ./install
 
 echo "To run, go into Jupiter/jupiter and execute 'npm start', then go into Mothership/mothership and execute 'npm start'"
